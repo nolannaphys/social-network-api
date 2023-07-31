@@ -14,6 +14,12 @@ Node.js, MongoDB, Mongoose, and Express are required for this application to run
 ## Usage
 After using Nodemon to start the server, everthing can be tested through Insomnia.
 
+![insomnia-image](assets/images/insomnia.png)
+
+[Insomnia Users Demo Video](https://drive.google.com/file/d/1Q__W55Z94qKOqfcIq5JChKaGIsDjS_67/view)
+
+[Insomnia Thoughts Demo Video](https://drive.google.com/file/d/1kwc0PTGCseKL9Csim0HAS9BQOIJn6VPX/view)
+
 ## License
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
